@@ -1,0 +1,1 @@
+A webpage project that is purely HTML showcasing making a boilerplate, links, images, and lists. 
